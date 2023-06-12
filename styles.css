@@ -1,0 +1,50 @@
+.card-img {
+  height: 100vh;
+}
+.maricar-photography {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 4em;
+}
+.btn {
+  text-align: left;
+  color: #d1d1d1;
+  background: transparent;
+  background-color: rgba(255, 207, 96, 0.616);
+}
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+#image-gallery .modal-footer{
+  display: block;
+}
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.div-title
+{
+  color: #d1d1d1;
+  background: transparent;
+  background-color: rgba(244, 230, 191, 0.214);
+  font-size: 2em;
+}
+
+.bg-contact
+{
+  background-color: rgb(15, 1, 54);
+  height: 100vh;
+}
+
+.div-about
+{
+  background-color: rgb(15, 1, 54);
+  height: 100vh;
+}
+
+.div-bg
+{
+  background-color: rgb(15, 1, 54);
+  height: 129h;
+}
